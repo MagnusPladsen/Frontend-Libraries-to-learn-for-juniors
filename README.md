@@ -1,5 +1,5 @@
-# Frontend-Libraries-to-learn-for-juniors
-This is a collection for which libraries new frontend developers should be familiar with.
+# React-libraries-to-learn-for-juniors
+This is a collection for which libraries new React developers should be familiar with.
 
 
 ## (!) - Very important and you should at a minimum know what it is, should have some experience wit it.
