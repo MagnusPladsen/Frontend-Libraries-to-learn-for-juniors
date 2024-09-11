@@ -3,5 +3,5 @@ This is a collection for which libraries new frontend developers should be famil
 
 
 ## Forms
-- [https://react-hook-form.com/](React Hook Form) - The newest and most popular form library for react made by the creators of React.
+- [React Hook Form](https://react-hook-form.com/) - The newest and most popular form library for react made by the creators of React.
 - [https://formik.org/](Formik) - Very big and popular form library for react
