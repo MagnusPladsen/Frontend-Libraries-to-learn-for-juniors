@@ -2,7 +2,7 @@
 This is a collection for which libraries new React developers should be familiar with.
 
 
-## (!) - Very important and you should at a minimum know what it is, should have some experience wit it.
+### (!) - Very important and you should at a minimum know what it is, should have some experience wit it.
 
 
 ## Forms
@@ -27,7 +27,7 @@ This is a collection for which libraries new React developers should be familiar
 
 
 ## State management
-- [Redux)(https://redux.js.org/): The biggest and most used state management library. (!)
+- [Redux](https://redux.js.org/): The biggest and most used state management library. (!)
 - [Zustand](https://zustand.docs.pmnd.rs/getting-started/introduction): Very popular library for state management that is smaller and simpler to use.
 
 
